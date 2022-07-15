@@ -1,5 +1,5 @@
 <div align="center">
-<h1 align="center">Hi <img width="35" src="https://github.com/canmujde/canmujde/blob/main/resources/can-memoji.png">, I'm Can</h1>
+<h1 align="center">Hi <img width="64" src="https://github.com/canmujde/canmujde/blob/main/resources/can-memoji.png">, I'm Can</h1>
 <h4 align="center">a game developer</h4>
 </div>
 
