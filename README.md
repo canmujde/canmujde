@@ -1,16 +1,46 @@
-### Hi there 👋
+<div align="center">
+<h1 align="center">Hi <img width="35" src="https://github.com/canmujde/canmujde/blob/main/resources/can-memoji.png">, I'm Can</h1>
+<h4 align="center">a game developer</h4>
+</div>
 
-<!--
-**canmujde/canmujde** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
+  <img  src="https://github.com/canmujde/canmujde/blob/main/resources/grid-snake.svg"
+       alt="snake" />
+</div>
 
-Here are some ideas to get you started:
+<details>
+  <summary>☎️Contact</summary>
+<div>
+    <p align="center">
+      <br/>
+      <a href="https://www.linkedin.com/in/canmujde/" target="blank"><img align="center"
+         src="https://img.shields.io/badge/linkedin-%231DA1F2.svg?style=for-the-badge&logo=linkedin&logoColor=white"
+         alt="canmujde-linkedin" height="30"/></a>
+    </p>
+</div>
+</details>
+<details> 
+  <summary>💻 GitHub Profile Stats</summary>
+  <div>
+    <h2 align="center"> 📊 Github stats </h2>
+      <br/>
+        <p align="center">
+          <a href="https://github.com/1999AZZAR/">
+          <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=canmujde&langs_count=6&theme=gruvbox&layout=compact&hide_border=true" alt="canmujde :: Top Langs" /></a>
+        </p>
+        <p align="center">
+          <a href="https://github.com/canmujde/">
+          <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=canmujde&show_icons=true&theme=gruvbox&hide_border=true" />
+          <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=canmujde&theme=gruvbox&hide_border=true" />
+          </a>
+       </p>
+     <br>
+  </div>    
+</details>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<details>
+  <summary>📈 Activity Graph</summary>
+  <br/>
+  <h2 align="center"> Current Activity </h2>
+<a href="https://github.com/canmujde"><img alt="can's activity graph" src="https://activity-graph.herokuapp.com/graph/?username=canmujde&bg_color=000&color=fff&line=00E676&point=fff&hide_border=true" /></a>
+</details>
