@@ -13,7 +13,7 @@
 <div>
     <p align="center">
       <br/>
-      <a href="https://www.linkedin.com/in/canmujde/" target="blank"><img align="center"
+      <a href="https://www.linkedin.com/in/canmujde/" target="_blank"><img align="center"
          src="https://img.shields.io/badge/linkedin-%231DA1F2.svg?style=for-the-badge&logo=linkedin&logoColor=white"
          alt="canmujde-linkedin" height="30"/></a>
     </p>
