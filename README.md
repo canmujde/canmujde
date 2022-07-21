@@ -4,14 +4,8 @@
 </div>
 
 <div align="center">
-<svg viewBox="0 0 100 100" height="150px" width="150px">
-  <rect x="10" y="10" rx="5" width="80" height="80" fill="pink" stroke="green" stroke-width="5"> 
-<img  src="https://github.com/canmujde/canmujde/blob/main/resources/grid-snake.svg"
-       alt="snake" />
-</rect>
-
-</svg>
-  
+  <img  src="https://github.com/canmujde/canmujde/blob/main/resources/iknowsomelanguages.gif"
+       alt="meme" />
 </div>
 
 <details>
