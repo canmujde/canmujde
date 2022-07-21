@@ -2,7 +2,7 @@
 <h1 align="center">Hi, I'm Can <img width="64" src="https://github.com/canmujde/canmujde/blob/main/resources/can-memoji.png"></h1>
 <h4 align="center">a game developer</h4>
 </div>
-<h1 align="center">Lets start with a meme 🤣</h1>
+<h1 align="center">Let's start with a meme 🤣</h1>
 <div align="center">
   <img  src="https://github.com/canmujde/canmujde/blob/main/resources/iknowsomelanguages.gif"
        alt="meme" />
