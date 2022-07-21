@@ -4,8 +4,14 @@
 </div>
 
 <div align="center">
-  <img  src="https://github.com/canmujde/canmujde/blob/main/resources/grid-snake.svg"
+<svg viewBox="0 0 100 100" height="150px" width="150px">
+  <rect x="10" y="10" rx="5" width="80" height="80" fill="pink" stroke="green" stroke-width="5"> 
+<img  src="https://github.com/canmujde/canmujde/blob/main/resources/grid-snake.svg"
        alt="snake" />
+</rect>
+
+</svg>
+  
 </div>
 
 <details>
@@ -13,10 +19,11 @@
 <div>
     <p align="center">
       <br/>
-      <a href="https://www.linkedin.com/in/canmujde/" target="_blank"><img align="center"
+      <a href="https://www.linkedin.com/in/canmujde/" target="_blank"><img align="left"
          src="https://img.shields.io/badge/linkedin-%231DA1F2.svg?style=for-the-badge&logo=linkedin&logoColor=white"
          alt="canmujde-linkedin" height="30"/></a>
     </p>
+<br>
 </div>
 </details>
 <details> 
